@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="234.0" prefWidth="321.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LibroJava11.Capitolo10.FXMLDocumentController">
+    <children>
+        <Label fx:id="lbl_name" layoutX="33.0" layoutY="20.0" minHeight="16" minWidth="69" text="Nome:" />
+      <TextField fx:id="txt_name" layoutX="113.0" layoutY="16.0" prefHeight="25.0" prefWidth="178.0" />
+      <Label fx:id="lbl_last_name" layoutX="33.0" layoutY="56.0" minHeight="16" minWidth="69" text="Cognome:" />
+      <TextField fx:id="txt_last_name" layoutX="113.0" layoutY="52.0" prefHeight="25.0" prefWidth="178.0" />
+      <Separator layoutX="12.0" layoutY="96.0" prefHeight="3.0" prefWidth="301.0" />
+      <Label fx:id="lbl_age" layoutX="31.0" layoutY="117.0" minHeight="16" minWidth="69" text="Età:" />
+      <TextField fx:id="txt_age" layoutX="111.0" layoutY="113.0" prefHeight="25.0" prefWidth="178.0" />
+      <TextField fx:id="txt_country" layoutX="111.0" layoutY="149.0" prefHeight="25.0" prefWidth="178.0" />
+      <Label fx:id="lbl_country" layoutX="31.0" layoutY="153.0" minHeight="16" minWidth="69" text="Nazione:" />
+      <Button fx:id="btn_send" layoutX="248.0" layoutY="197.0" mnemonicParsing="false" text="Invia" />
+    </children>
+</AnchorPane>

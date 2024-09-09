@@ -1,0 +1,3 @@
+Reads characters into a portion of an array. 
+This method will block until some input is available,
+an I/O error occurs, or the end of the stream is reached.

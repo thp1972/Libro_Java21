@@ -1,0 +1,4 @@
+module dataconsumer 
+{
+    requires dataprovider;    
+}

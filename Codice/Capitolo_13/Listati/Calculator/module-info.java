@@ -1,0 +1,4 @@
+module calculator
+{
+    requires mathlibrary;
+}
