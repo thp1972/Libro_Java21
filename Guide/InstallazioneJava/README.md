@@ -55,7 +55,7 @@ L’istruzione suindicata./ba  può essere scritta:
 > `update-alternatives --config java` 
 > laddove quest’ultimo comando consente di scegliere il JDK da usare (nel nostro caso digiteremo `2` e poi premeremo `Invio`).
 
-![alt text](Java_alt.png)
+![alt text](Java_Alt.png)
 
 ## macOS
 
