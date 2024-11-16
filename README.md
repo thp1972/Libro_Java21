@@ -1,11 +1,26 @@
-# Libro Java 21
+# Programmare in Java
 
-## Pellegrino Principe
+Questo è il repository per il libro **Programmare in Java** pubblicato da Apogeo Editore.
 
-### Apogeo Editore
+Troverete sia tutto il codice sorgente che delle utili guide di supporto.
 
-[Installazione Java](Guide/InstallazioneJava/README.md)
+In poco più di **800** pagine imparerete tutto, ma proprio tutto, su uno dei linguaggi di programmazione più usati al mondo.
 
-[Sistemi Numerici](Guide/SistemiNumerici/README.md)
+Il libro è aggiornato alla verione **JDK 21 LTS**.
 
-[Codice Sorgente](Codice/README.md)
+![cop](Immagini/Copertina.jpg)
+
+## Anteprime Capitoli
+- [Indice](Anteprime/programmare-in-java-indice.pdf)
+- [Introduzione](Anteprime/programmare-in-java-introduzione.pdf) 
+- [Capitolo 1](Anteprime/programmare-in-java-capitolo-1.pdf)
+
+## Capitoli Supplementari
+- Programmazione di rete
+
+## Guide
+- [Installazione Java](Guide/InstallazioneJava/README.md)
+- [Sistemi Numerici](Guide/SistemiNumerici/README.md)
+
+## Codice Sorgente (Listati e Snippets)
+- [Codice Sorgente](Codice/README.md)
